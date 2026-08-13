@@ -1,0 +1,6 @@
+.img1 {
+  object-fit: cover;
+  width: 150px;
+  height: 100px;
+  object-position: top;
+}

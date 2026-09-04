@@ -1,0 +1,37 @@
+.div {
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+  display: inline-block;
+}
+
+.image {
+  width: 150px;
+}
+.name {
+  font-weight: bold;
+  font-size: 17px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 6px;
+
+}
+.friends {
+  color: rgb(83, 83, 83);
+  font-size: 14px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 6px;
+
+}
+.add {
+  background-color: rgb(28, 121, 228);
+  padding: 7px 15px;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  font-size: 13px;
+  margin-top: 5px;
+  cursor: pointer;
+  margin-left: 6px;
+  margin-bottom: 8px;
+
+}

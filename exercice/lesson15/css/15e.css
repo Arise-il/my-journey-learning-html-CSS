@@ -1,0 +1,22 @@
+body {
+  height: 3000px;
+}
+.container {
+  position: relative;
+  display: inline-block;
+}
+.image {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.OFF {
+  position: absolute;
+  right: 0;
+  top: 5px;
+  font-size: 7px;
+  background-color: black;
+  color: white;
+  padding: 3px 5px;
+}
